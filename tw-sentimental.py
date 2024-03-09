@@ -3,7 +3,7 @@ from scipy.special import softmax
 import numpy as np
 import subprocess
 
-#python_output = subprocess.run(['python', 'tw-sentimental.py', user_input], capture_output=True).stdout.decode()
+
 
 #Input of dataset
 tweet =input("Enter the Comment:")
